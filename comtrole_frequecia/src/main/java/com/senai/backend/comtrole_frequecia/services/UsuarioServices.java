@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.senai.backend.comtrole_frequecia.models.usuario;
 import com.senai.backend.comtrole_frequecia.repositories.UsuarioRepository;
 
-import jakarta.persistence.Id;
+
 
 @Service
 public class UsuarioServices {

@@ -7,5 +7,4 @@ import com.senai.backend.comtrole_frequecia.models.usuario;
 
 @Repository
 public interface UsuarioRepository extends JpaRepository <usuario, Integer> {
-
 }
