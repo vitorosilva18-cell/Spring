@@ -1,8 +1,5 @@
 package com.senai.backend.comtrole_frequecia.services;
 
-import com.senai.backend.comtrole_frequecia.repositories.PautaRepository;
-
-import jakarta.persistence.Id;
 
 import java.util.List;
 
